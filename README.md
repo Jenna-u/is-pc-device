@@ -1,4 +1,4 @@
-#is_pc_device
+# is_pc_device
 
 Detect whether it is a pc device
 
@@ -13,6 +13,6 @@ import { is_pc_device } from 'is-pc-device'
 console.log(is_pc_device)
 ```
 
-##License
+## License
 MIT
 

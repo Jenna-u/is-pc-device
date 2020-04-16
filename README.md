@@ -15,4 +15,3 @@ console.log(is_pc_device)
 
 ## License
 MIT
-

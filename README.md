@@ -2,15 +2,16 @@
 
 Detect whether it is a pc device
 
-## install
+## Installation
 ```bash
 npm install --save is_pc_device
 ```
 
+## Example
 ```bash
-import { is_pc_device } from 'is-pc-device'
+import isPc from 'is-pc-device'
 
-console.log(is_pc_device)
+console.log(isPc)
 ```
 
 ## License

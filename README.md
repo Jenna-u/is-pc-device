@@ -4,7 +4,7 @@ Detect whether it is a pc device
 
 ## Installation
 ```bash
-npm install --save is_pc_device
+npm install --save is-pc-device
 ```
 
 ## Example

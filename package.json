@@ -1,6 +1,6 @@
 {
   "name": "is-pc-device",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "detect pc device",
   "main": "index.js",
   "repository": {
